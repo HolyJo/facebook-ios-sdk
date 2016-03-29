@@ -17,6 +17,7 @@
 #import "FBGraphObject.h"
 
 #import <objc/runtime.h>
+#import <objc/protocol.h>
 
 #import "FBOpenGraphActionShareDialogParams.h"
 #import "FBOpenGraphObject.h"
